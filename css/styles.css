@@ -133,6 +133,13 @@ a:visited {
   height: 400px;
 }
 
+#katherine-gruenberg-cover {
+ background-image: url("http://i.imgur.com/KB2PEHC.jpg");
+}
+
+#katherine-gruenberg-card {
+ background-image: url("http://i.imgur.com/OYTk5gu.jpg");
+}
 #sophia-varella-cover {
     background-image: url("http://i.imgur.com/v9ZXh0g.jpg");
 }
